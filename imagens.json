@@ -1,0 +1,14 @@
+{
+    "animals": [
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2020/12/03/19/03/cat-5801323_960_720.jpg", "name": "Gato"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2015/01/22/00/15/penguin-607289_960_720.jpg", "name": "Pinguim"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg", "name": "Gato 2"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2013/07/19/00/18/raccoon-165188_960_720.jpg", "name": "Guaxinim"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2016/08/31/21/24/lion-1634655_960_720.jpg", "name": "Leão"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2015/09/18/00/24/robin-944887_960_720.jpg", "name": "Pássaro"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2019/02/18/16/59/animal-4004844_960_720.jpg", "name": "Tigre"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2012/10/03/06/14/giraffe-59009_960_720.jpg", "name": "Girafa"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2013/05/29/22/25/elephant-114543_960_720.jpg", "name": "Elefante"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2020/06/24/21/50/animals-5337791_960_720.jpg", "name": "Raposa"}
+    ]
+  }
